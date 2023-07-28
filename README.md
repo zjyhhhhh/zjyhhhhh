@@ -3,7 +3,6 @@
 ## About Me :
 
 - 😄 I am a Web Developer (JS & React, NodeJS & Java)
-- 🌱 I’m currently learning Swift and mobile development.
 - 🏫 I'm currently pursuing a graduate degree at the University of Waterloo.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: jiayuan.zhu1007@outlook.com
